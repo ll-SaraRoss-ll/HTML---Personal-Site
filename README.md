@@ -1,0 +1,1 @@
+Simple HTML Personal Website A clean, responsive personal site built entirely with HTML. Showcases my background, portfolio, and contact information with a structured layout and semantic markup. Designed to be lightweight, accessible, and easy to navigate.
